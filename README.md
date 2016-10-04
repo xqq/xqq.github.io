@@ -1,4 +1,6 @@
 xqq.github.io
 =============
 
-My blog  http://xqq.im/
+My blog
+
+Please visit http://xqq.im/
